@@ -1,2 +1,3 @@
 **Leaves Diseases Detection using CNN**  
-![](Screenshot from 2022-07-28 22-41-20.png)
+
+![](https://github.com/Chinmayak1197/Leaves-Diseases-Detection-using-CNN/blob/main/Screenshot%20from%202022-07-28%2022-41-20.png)
